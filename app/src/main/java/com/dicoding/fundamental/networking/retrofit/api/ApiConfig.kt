@@ -1,5 +1,6 @@
-package com.dicoding.fundamental.networking.retrofit
+package com.dicoding.fundamental.networking.retrofit.api
 
+import com.dicoding.fundamental.networking.retrofit.BuildConfig
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit

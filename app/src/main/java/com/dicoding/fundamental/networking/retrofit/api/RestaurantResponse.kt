@@ -1,4 +1,4 @@
-package com.dicoding.fundamental.networking.retrofit
+package com.dicoding.fundamental.networking.retrofit.api
 
 import com.google.gson.annotations.SerializedName
 
